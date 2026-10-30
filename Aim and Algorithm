@@ -1,0 +1,14 @@
+Aim: To perform overloading and overriding and show inheritance
+Algorithm:
+
+1. Start.
+2. Define a class `Calculator` with a method to add two values.
+3. Create an object of the class and perform addition using integers, decimal numbers, and strings.
+4. Define a parent class `Parent` with a method to print a message.
+5. Create a child class `Child` that inherits from the parent class.
+6. Redefine the parent class method inside the child class.
+7. Use `super()` to execute the parent class method.
+8. Print the message defined in the child class.
+9. Create an object of the child class.
+10. Invoke the overridden method using the object.
+11. Stop.
